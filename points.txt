@@ -1,0 +1,10 @@
+1-mkdir gitlab
+2-cd gitlab
+3-touch index.html
+4-touch style.css
+5-git init
+6-git add .
+7-git commit 
+8-changed html
+6-git add .
+7-git commit 
